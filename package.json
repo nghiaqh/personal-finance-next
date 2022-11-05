@@ -9,7 +9,7 @@
     "next": "^8.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "storybook": "^1.0.0"
+    "storybook": "^6.5.13"
   },
   "devDependencies": {},
   "scripts": {
